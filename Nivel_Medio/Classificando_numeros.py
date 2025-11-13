@@ -1,7 +1,7 @@
 """
 Problem Statement:
 Faça um programa para ler quatro números inteiros (n1, n2, n3 e n4) e depois exibir todos que são 
-pares e positivos, pares e negativos, ímpares e positivos, ímpares e negativo e zero, nesta ordem
+pares e positivos, pares e negativos, ímpares e positivos, ímpares e negativo e zero, nesta ordem.
 
 Input:
 n1 -> inteiro
