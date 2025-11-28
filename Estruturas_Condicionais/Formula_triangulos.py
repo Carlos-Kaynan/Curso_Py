@@ -1,4 +1,4 @@
-"""
+qqqqqqqqqqqqqqqqqqqqqqqqqq"""
 Problem Statement:
 Escreva um programa para ler o tamanho de três segmentos de retas e informar se estas 
 podem formar um triângulo (a soma de quaisquer dois lados sempre deve ser maior que o terceiro lado).
