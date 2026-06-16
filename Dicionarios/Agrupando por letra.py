@@ -7,6 +7,7 @@ nome -> string (poderá ser o nome ou "fim")
 
 Output:
 "{letra}: {nomes}"
+
 """
 
 grupos = {}
