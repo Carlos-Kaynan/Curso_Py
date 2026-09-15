@@ -12,7 +12,7 @@ Os exercícios do curso já têm entradas e saídas definidas, então são ótim
 ## Como rodar os testes desta pasta
 ```bash
 pip install pytest
-cd Testes
+cd "14 - Testes"
 pytest
 ```
 

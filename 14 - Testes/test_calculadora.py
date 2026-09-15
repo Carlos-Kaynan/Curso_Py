@@ -8,7 +8,7 @@ Já existe um teste de exemplo. Complete com pelo menos:
 - um teste que confirme que dividir(10, 0) lança ValueError (dica: with pytest.raises(ValueError):).
 
 Como rodar:
-Dentro da pasta Testes, execute: pytest
+Dentro da pasta "14 - Testes", execute: pytest
 
 Output esperado:
 Todos os testes passando (pontinhos verdes ou "passed" no terminal).
