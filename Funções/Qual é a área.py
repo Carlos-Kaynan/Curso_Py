@@ -17,6 +17,7 @@ altura = float(input())
 
 def area_retangulo(base, altura):
   area = base * altura
-  print(f"A área do retângulo é {area:.2f}")
+  return area
 
-area_retangulo(base, altura)
+area = area_retangulo(base, altura)
+print(f"A área do retângulo é {area:.2f}")

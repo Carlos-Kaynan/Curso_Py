@@ -15,6 +15,8 @@ Output:
 {CPF} {Nome}
 """
 
+funcionarios = {}
+
 for _ in range(10):
   cpf = input()
   nome = input()

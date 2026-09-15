@@ -13,6 +13,7 @@ A saída deverá ser a sequência de Collatz começando com N até que o número
 '''
 
 n = int(input())
+print(n)
 
 while n > 1:
   if n % 2 == 0:

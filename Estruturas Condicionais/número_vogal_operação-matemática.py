@@ -22,10 +22,10 @@ Quando o caractere for uma vogal, a saída deverá ser:
 
 caractere = input()
 
-if caractere.lower() == 'a' or caractere == 'e' or caractere == 'i' or caractere == 'o' or caractere == 'u':
+if caractere.lower() in ('a', 'e', 'i', 'o', 'u'):
     print("O caractere é uma vogal")
   
-elif caractere == '-' or caractere == '+' or caractere == '*' or caractere == '/':
+elif caractere in ('+', '-', '*', '/'):
     print("O caractere é uma operação matemática")
 
 elif caractere.isnumeric():
