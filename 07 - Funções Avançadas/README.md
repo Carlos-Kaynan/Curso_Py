@@ -2,7 +2,7 @@
 
 Continuação da pasta **Funções**. Aqui a ideia é escrever funções que **retornam** valores (em vez de só imprimir) e usar os recursos extras que o Python oferece.
 
-## O que estudar
+## O que estudar nessa etapa:
 - `return` x `print`: a função devolve o valor e quem chamou decide o que fazer com ele
 - Parâmetros com valor padrão (`def f(x, y=10)`)
 - Número variável de argumentos: `*args` e `**kwargs`
