@@ -23,5 +23,5 @@ Menor: 4
 Maior: 42
 Média: 18.00
 """
-
+ adasjo ndas
 # Escreva sua solução abaixo
