@@ -1,5 +1,5 @@
 """
-Problem Statement:
+Problem Statement::
 Leia uma lista de números inteiros e, usando filter() e map() com funções lambda,
 crie uma nova lista apenas com os números PARES elevados ao quadrado.
 Não use for nem list comprehension neste exercício.
