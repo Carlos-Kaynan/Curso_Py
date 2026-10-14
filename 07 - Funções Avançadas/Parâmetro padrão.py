@@ -28,3 +28,18 @@ Bom dia, Ana!
 """
 
 # Escreva sua solução abaixo
+
+def saudacao(nome, cumprimento="Olá"):
+    return f"{cumprimento}, {nome}!"
+
+# Leitura das entradas
+nome = input().strip()
+cumprimento_input = input().strip()
+
+# Se a segunda linha for vazia, chama a função usando apenas o primeiro argumento (usando o valor padrão)
+if complemento_input := cumprimento_input:
+    mensagem = saudacao(nome, complemento_input)
+else:
+    mensagem = saudacao(nome)
+
+print(mensagem)
