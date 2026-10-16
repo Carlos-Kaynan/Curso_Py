@@ -20,3 +20,16 @@ A soma é 6.50
 """
 
 # Escreva sua solução abaixo
+
+def somar(*numeros):
+    return sum(numeros)
+
+# Leitura da entrada e conversão dos valores para float
+entrada = input()
+lista = [float(x) for x in entrada.split()]
+
+# Chamada da função desempacotando a lista
+total = somar(*lista)
+
+# Exibição do resultado com 2 casas decimais
+print(f"A soma é {total:.2f}")
